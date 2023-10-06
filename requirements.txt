@@ -1,0 +1,5 @@
+scikit-learn==1.2.2
+numpy==1.24.2
+plotly==5.13.1
+tqdm==2.2.3
+sentence-transformers==2.2.2
